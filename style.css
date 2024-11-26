@@ -1,0 +1,63 @@
+*{
+    transition: all 0.3s ease-in;
+
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+bady{
+    background-color: #FFFFFF;
+}
+
+.img{
+    width: 25px;
+
+}
+.img2{
+    width: 35px;
+}
+.t-hover:hover{
+    color: rgb(61, 137, 238) !important;
+}
+/* main */
+.ax-1{
+    transform: translate(0.3%);
+    overflow: hidden;
+}
+.ax:hover{
+    transform: scale(1.1);
+}
+/* section-2 */
+.w-1{
+    width: 260px;
+}
+/* section-5 */
+.icon-hover:hover{
+text-decoration: underline rgb(100, 192, 234) !important;
+
+}
+/* section-6 */
+.box{
+    width: 356px;
+    height: 410px;
+}
+/* section-15 */
+.box-2{
+    width: 330px;
+    height: 490px;
+}
+.img-css{
+    width: 330px;
+}
+/* section-19 */
+.rang{
+background-color: #55627B;
+}
+.b-t{
+    margin-left: 600px;
+
+}
+.b-b{
+    margin-right: 600px;
+}
